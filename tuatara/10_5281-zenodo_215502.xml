@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-3" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.215502</identifier>
+  <creators>
+    <creator>
+      <creatorName>Munroe, Thomas A.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Spotted Flounder, Azygopus Flemingi Nielsen 1961 (Pisces: Pleuronectiformes: Rhombosoleidae), From Deep Waters Off New Zealand: A Second Valid Species Of Azygopus Norman 1926, With Notes On Distribution, Size, Maturity, And Ecology</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+    <subject>Animalia</subject>
+    <subject>Chordata</subject>
+    <subject>Actinopterygii</subject>
+    <subject>Pleuronectiformes</subject>
+    <subject>Pleuronectidae</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2012-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="lsid">urn:lsid:plazi.org:pub:FFAD2B184B5E8D18FFE8FFAAFF81FF88</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/10.5281/zenodo.215502</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/039453604B5D8D1BFF7FFD1EFC6FF9FA</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/039453604B5D8D03FF7FF96CFB01FAF0</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215503</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:5-177-1414-162-1010</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215503</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215504</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:6-169-1412-564-1562</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215504</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215505</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:7-213-1384-153-1908</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215505</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215506</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:13-207-1382-151-1856</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215506</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215507</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:14-151-1436-583-1867</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215507</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215508</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:16-281-1272-423-1937</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215508</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215509</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:18-246-1347-163-1669</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215509</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215510</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:19-228-1376-182-735</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215510</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215511</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:20-151-1436-553-1845</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215511</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215512</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:22-241-1309-194-1883</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215512</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.215513</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:24-195-1399-151-1894</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/215513</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/closedAccess">Closed Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Munroe, Thomas A. (2012): The spotted flounder, Azygopus flemingi Nielsen 1961 (Pisces: Pleuronectiformes: Rhombosoleidae), from deep waters off New Zealand: a second valid species of Azygopus Norman 1926, with notes on distribution, size, maturity, and ecology. Zootaxa 3297: 1-33, DOI: 10.5281/zenodo.215502</description>
+    <description descriptionType="Other">{"references": ["Amaoka, K. (1990) Pleuronectidae Right-Eye Flounders. In Amaoka, K., Matsuura, K., Inada, T., Takeda, M., Hatanaka, H. &amp; Okada, K. (Eds.). Fishes collected by the R/V Shinkai Maru around New Zealand. Japan Marine Fishery Resource Research Center, Tokyo, pp. 326-329. (In Japanese and English)", "Anderson, O.F., Bagley, N.W., Hurst, R.J., Francis, M.P., Clark, M.R. and McMillan, P.J. (1998) Atlas of New Zealand fish and squid distributions from research bottom trawls. National Institute of Water &amp; Atmospheric Research (New Zealand) Technical Report, 42, 303 pp.", "Ayling, T. &amp; Cox, G.J. (1982) Collins Guide to the Sea Fishes of New Zealand. William Collins Publ., Ltd., Wellington, 343 pp.", "Eschmeyer, W.N. &amp; Fricke, R. (2012) (Eds.) Catalog of Fishes electronic version. http://research.calacademy.org/ichthyology/ catalog/fishcatmain.asp (Accessed 1 February 2012).", "Evseenko, S.A. (2004) Family Pleuronectidae Cuvier 1816- righteye flounders. California Academy of Sciences Annotated Checklist of Fishes, Number 37, 37 pp.", "Francis, M.P., Hurst, R.J., McArdle, B.H., Bagley, N.W. &amp; Anderson, O.F. (2002) New Zealand demersal fish assemblages. Environmental Biology of Fishes, 65, 215-234.", "Gomon, M.F. (2008) Family Rhombosoleidae (Austral Righteye Flounders). In Gomon, M., Bray, D. &amp; Kuiter, R. (Eds.). Fishes of Australia's Southern Coast. Reed New Holland, Publ., Sydney, pp. 810-816.", "Iwai, M., Nakamura, I., Inada, Y., Ikeda, I., Sata, N. &amp; Hanaka, H. (1972) Report of research performed with a special research grant from the Ministry of Agriculture, Forestry and Fisheries-Research on taxonomy of fishes in overseas fishing grounds-taxonomic research on New Zealand inshore benthic fishes. Special Report of the Far Seas Fisheries Research Laboratory, Japan, 39 pp. (In Japanese)", "Jacob, W., McClatchie, S., Probert, P.K. &amp; Hurst, R.J. (1998) Demersal fish assemblages off southern New Zealand in relation to depth and distribution. Deep-Sea Research I, 45, 2119-2155.", "Manikiam, J.S. (1969) A guide to the Flatfishes (Order Heterosomata) of New Zealand. Tuatara, 17 (3), 118-129.", "McCatchie, S., Millar, R.B., Webster, F., Lester, P.J., Hurst, R. &amp; Bagley, N. (1997) Demersal fish community diversity off New Zealand: Is it related to depth, latitude, and regional surface phytoplankton? Deep-Sea Research I, 44 (4), 647-667.", "Moreland, J. (1957) Report on the Fishes. In Knox, G. A. (Ed.). General Account of the Chatham Islands 1954 Expedition. New Zealand Department of Scientific and Industrial Research Bulletin, 122, Appendix 6, p. 34.", "Munroe, T.A. (2005) Systematic diversity of the Pleuronectiformes. Chapter 2. In Gibson, R.N. (Ed.). Flatfishes: Biology and Exploitation, Blackwell Science Ltd., Oxford, pp. 10-41.", "Nielsen, J. (1961) Heterosomata (Pisces). Galathea Report. Scientific Results of the Danish Deep-Sea Expedition Round the World, 4, 219-226.", "Nielsen, J.G. (1974) Fish types in the Zoological Museum of Copenhagen. Zoological Museum, University of Copenhagen, Denmark, 115 pp.", "Norman, J.R. (1926) A report on the flatfishes (Heterosomata) collected by the F.I.S. \"Endeavour,\" with a synopsis of the flatfishes of Australia and a revision of the subfamily Rhombosoleinae. Biological Results of the fishing experiments carried on by the F.I.S. \"Endeavour\" 1909-1914, 5 (Part 5), 219-308.", "Norman, J.R. (1934) A systematic monograph of the Flatfishes (Heterosomata). Vol. I. Psettodidae, Bothidae, Pleuronectidae. Trustees of the British Museum, London, 459 pp.", "Paul, L. (1986) New Zealand Fishes-An Identification Guide. Reed Methuen Publishers, Ltd., Auckland, New Zealand, 184 pp.", "Paul, L. (2000) New Zealand Fishes-Identification, Natural History &amp; Fisheries (Revised Edition). Reed Publishing, Auckland, New Zealand, 253 pp.", "Paulin, C.D. (1996) New Zealand Commercial Fisheries: The identification guide to quota management species (Boyle, D.P., &amp; Clement, I.T., Eds.). Clement &amp; Associates, Limited, Tauranga, New Zealand, 63 pp.", "Paulin, C.D., &amp; Stewart, A.L. (1985) A list of New Zealand teleost fishes held in the National Museum of New Zealand. National Museum New Zealand Miscellaneous Series, 12, 63 pp.", "Paulin, C., Stewart, A., Roberts, C. &amp; McMillan, P. (1989) New Zealand Fish- A Complete Guide. National Museum of New Zealand Miscellaneous Series, 19, 279 pp.", "Paulin, C., Stewart, A., Roberts, C. &amp; McMillan, P. (2001) New Zealand Fish-A Complete Guide. Te Papa Press, Museum of New Zealand Te Papa Tongarewa, Wellington, 279 pp.", "Roberts, C.D. (1993) Comparative morphology of spined scales and their phylogenetic significance in the Teleostei. Bulletin of Marine Science, 52 (1), 60-113.", "Sakamoto, K. (1984) Interrelationships of the family Pleuronectidae (Pisces: Pleuronectiformes). Memoirs of the Faculty of Fisheries, Hokkaido University, 31 (1), 95-215.", "Shuntov, V.P. (1979) Ikhtiofauna yugo-zapadnoj chasti Tikhogo okeana. Moskva (USSR), Izd-vo Pishchevaya Promyshlenmost', 193 pp. (In Russian)", "Whitley, G.P. (1968) A check-list of the fishes recorded from the New Zealand region. Australian Zoologist, 15 (1), 1-102."]}</description>
+  </descriptions>
+</resource>

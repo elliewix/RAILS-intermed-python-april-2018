@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dryad="http://purl.org/dryad/terms/" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GR573</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Jones, Marc E. H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Anderson, Cajsa Lisa</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hipsley, Christy A.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Müller, Johannes</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Evans, Susan E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Schoch, Rainer R.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Data from: Integration of molecules and new fossils supports a Triassic origin for Lepidosauria (lizards, snakes, and tuatara)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+    <subject>dating</subject>
+    <subject>fossil</subject>
+    <subject>lizards</subject>
+    <subject>molecular</subject>
+    <subject>origin</subject>
+    <subject>tuatara</subject>
+    <subject>Triassic</subject>
+    <subject>Jurassic</subject>
+    <subject>Sphenodon punctatus</subject>
+    <subject>Lepidosauria</subject>
+    <subject>Squamata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="citation">Jones MEH, Anderson CL, Hipsley CA, Müller J, Evans SE, Schoch RR (2013) Integration of molecules and new fossils supports a Triassic origin for Lepidosauria (lizards, snakes, and tuatara). BMC Evolutionary Biology 13: 208.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.GR573/1</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.GR573/2</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.GR573/3</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.GR573/4</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.GR573/5</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1186/1471-2148-13-208</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1186/1471-2148-13-208</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="PMID" relationType="IsReferencedBy">24063680</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="PMID" relationType="IsSupplementTo">24063680</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+</resource>

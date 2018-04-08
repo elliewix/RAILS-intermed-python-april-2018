@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://datacite.org/schema/kernel-2.2" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd"><ns0:identifier identifierType="DOI">10.25334/Q4FX12</ns0:identifier><ns0:creators><ns0:creator>	<ns0:creatorName>Nuggets, Data</ns0:creatorName></ns0:creator></ns0:creators><ns0:titles>
+			<ns0:title>When a species can't stand the heat</ns0:title>
+		</ns0:titles>
+		<ns0:publisher>QUBES</ns0:publisher>
+		<ns0:publicationYear>2018</ns0:publicationYear><ns0:contributors>	<ns0:contributor contributorType="ProjectLeader">		<ns0:contributorName>Orndorf, Hayley</ns0:contributorName>	</ns0:contributor></ns0:contributors><ns0:dates>
+			<ns0:date dateType="Valid">2018-03-13</ns0:date>
+			<ns0:date dateType="Accepted">2018-03-13</ns0:date>
+		</ns0:dates>
+		<ns0:language>en</ns0:language>
+		<ns0:resourceType resourceTypeGeneral="Text">Teaching Materials</ns0:resourceType><ns0:version>1.0</ns0:version><ns0:rights>CC Attribution-NonCommercial-ShareAlike 4.0 International</ns0:rights><ns0:descriptions>
+			<ns0:description descriptionType="Abstract">Data Nuggets resource on the changing sex ratio in tuatara populations.</ns0:description>
+			</ns0:descriptions>
+		</ns0:resource>

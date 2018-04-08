@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-3" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.189620</identifier>
+  <creators>
+    <creator>
+      <creatorName>Gentile, Gabriele</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Snell, Howard</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Conolophus Marthae Sp. Nov. (Squamata, Iguanidae), A New Species Of Land Iguana From The Galápagos Archipelago</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+    <subject>Animalia</subject>
+    <subject>Chordata</subject>
+    <subject>Reptilia</subject>
+    <subject>Squamata</subject>
+    <subject>Iguanidae</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2009-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="lsid">urn:lsid:plazi.org:pub:1A1A7738FFDAFF91FFC8FFCCA670FF8E</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/10.5281/zenodo.189620</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/E6230F40FFDBFF96FF5FF9BCA531F840</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189621</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:1-151-1435-583-1483</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189621</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189622</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:2-340-1246-583-1263</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189622</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189623</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:4-151-1436-390-1845</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189623</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189624</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:5-150-1436-194-761</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189624</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189625</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:5-154-1431-898-1856</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189625</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.189626</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:6-442-1145-181-1752</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/189626</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/closedAccess">Closed Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Gentile, Gabriele, Snell, Howard (2009): Conolophus marthae sp. nov. (Squamata, Iguanidae), a new species of land iguana from the Galápagos archipelago. Zootaxa 2201: 1-10, DOI: 10.5281/zenodo.189620</description>
+    <description descriptionType="Other">{"references": ["Bell, T. (1825) On a new genus of Iguanidae. Zoological Journal, 2, 204-207.", "Carpenter, C. C. (1982) The aggressive displays of iguanine lizards. In: Burghardt, G. M. &amp; Rand, A. S. (Eds), Iguanas of the world. Their behavior, ecology, and conservation. Noyes Publications, Park Ridge, New Jersey, pp. 215-231.", "Daugherty, C., Cree, A., Hay, J.M. &amp; Thompson, M.B. (1990) Neglected taxonomy and continued extinctions in Tuatara. Nature, 347, 177-178.", "Donegan, T.M. (2008) Nomenclatural availability of nomina of new species or subspecies does not and should not require the deposition of dead specimens in collections. Zootaxa, 1761, 37-48.", "Dubois, A. &amp; Nemesio, A. (2007) Does nomenclatural availability of nomina of new species or subspecies require the deposition of vouchers in collections? Zootaxa, 1409, 1-22.", "Gentile, G., Fabiani, A., Marquez, C., Snell, H.L., Snell, H.M., Tapia, W. &amp; Sbordoni, V. (2009) An overlooked pink species of land iguana in the Galapagos. Proceedings of the National Academy of Sciences, 106, 507-511.", "Gray, J.E. (1831) Description of a new species of Amblyrhynchus of Mr. Bell, in the British Museum. Zoological Miscellany, 10, 6. Reprinted by Society for the Study of Amphibians and Reptiles, 1971.", "Heller, E. (1903) Papers from the Hopkins Stanford Galapagos expedition, 1898-1899, XIV. Reptiles. Proceedings of the Washington Academy of Science, 5, 39-98.", "Nemesio, A. (2009) Nomenclatural availability of nomina of new species should always require the deposition of preserved specimens in collections: a rebuttal to Donegan (2008). Zootaxa, 2045, 1-14.", "Rassmann, K., Markmann, M., Trillmich, F. &amp; Tautz, D. (2004) Tracing the evolution of the Galapagos iguanas: A molecular approach. In: Alberts, A.C., Carter, R. L., Hayes, W. K. &amp; Martins, E. P. (Eds), Iguanas, Biology and Conservation, University of California Press, Berkeley, Los Angeles, London, pp. 71-83.", "Rassmann K., Trillmich, F. &amp; Tautz, D. (1997) Hybridization between the Galapagos land and marine iguana (Conolophus subcristatus and Amblyrhynchus cristatus) on Plaza Sur. Journal of Zoology, 242, 729-739.", "Snell, H.L., Snell, M.H. &amp; Tracy, C.R. (1984) Variation among populations of Galapagos land iguanas (Conolophus) - contrasts of phylogeny and ecology. Biological Journal of the Linnean Society, 21, 185-207.", "Tzika, A., Rosa, S., Marquez, C., Snell, H., Snell, H., Tapia, W., Gentile, G. &amp; Milinkovitch, M. (2008) Population genetics of Galapagos land iguana (genus Conolophus) remnant populations. Molecular Ecology, 17, 4743-4952."]}</description>
+  </descriptions>
+</resource>

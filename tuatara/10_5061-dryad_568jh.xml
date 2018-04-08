@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dryad="http://purl.org/dryad/terms/" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.568JH</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Herrera-Flores, Jorge A.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Stubbs, Thomas L.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Benton, Michael J.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Data from: Macroevolutionary patterns in Rhynchocephalia: is the tuatara (Sphenodon punctatus) a living fossil?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2017</publicationYear>
+  <subjects>
+    <subject>Rates of evolution</subject>
+    <subject>living fossils</subject>
+    <subject>morphospace</subject>
+    <subject>New Zealand</subject>
+    <subject>Worlwide</subject>
+    <subject>Mesozoic</subject>
+    <subject>Holocene</subject>
+    <subject>Rhynchocephalia</subject>
+    <subject>Sphenodontia</subject>
+    <subject>Sphenodon punctatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="citation">Herrera-Flores JA, Stubbs TL, Benton MJ (2017) Macroevolutionary patterns in Rhynchocephalia: is the tuatara (Sphenodon punctatus) a living fossil? Palaeontology 60(3): 319–328.</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="issn">1475-4983</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.568JH/1</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1111/PALA.12284</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1111/PALA.12284</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+</resource>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dryad="http://purl.org/dryad/terms/" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75NV22QJ</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Crawford, Nicholas G.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Faircloth, Brant C.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>McCormack, John E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Brumfield, Robb T.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Winker, Kevin</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Glenn, Travis C.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Data from: More than 1000 ultraconserved elements provide evidence that turtles are the sister group of archosaurs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+    <subject>ultraconserved elements</subject>
+    <subject>phylogenomic</subject>
+    <subject>phylogenetics</subject>
+    <subject>reptiles</subject>
+    <subject>turtles</subject>
+    <subject>evolution</subject>
+    <subject>archosaurs</subject>
+    <subject>Pantherophis guttata</subject>
+    <subject>Pelomedusa subrufa</subject>
+    <subject>Chrysemys picta</subject>
+    <subject>Alligator mississippiensis</subject>
+    <subject>Crocodylus porosus</subject>
+    <subject>Sphenodon tuatara</subject>
+    <subject>Gallus gallus</subject>
+    <subject>Taeniopygia guttata</subject>
+    <subject>Anolis carolinensis</subject>
+    <subject>Homo sapiens</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="citation">Crawford NG, Faircloth BC, McCormack JE, Brumfield RT, Winker K, Glenn TC (2012) More than 1000 ultraconserved elements provide evidence that turtles are the sister group of archosaurs. Biology Letters 8(5): 783-786.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/1</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/2</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/3</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/4</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/5</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/6</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/7</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/8</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/9</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/10</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/11</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/12</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/13</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/14</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/15</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/16</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/17</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/18</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/19</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/20</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.75NV22QJ/22</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1098/RSBL.2012.0331</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1098/RSBL.2012.0331</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="PMID" relationType="IsReferencedBy">22593086</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="PMID" relationType="IsSupplementTo">22593086</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+</resource>
