@@ -76,4 +76,33 @@ We're going to load this into Python for now.  Python has a lovely sqlite3 packa
 import sqlite3
 conn = sqlite3.connect('pettigrew_test.db')
 ```
-When we import the package without an alias, this means that we need to 
+When we import the package without an alias, this means that we need to use dot notation and have `sqlite3.` before any function from that package that we want to use.
+
+In this case, we want to call `sqlite3.connect()` to open up a connection to our database file.  Again, the terminology here is really geared toward non-local files.  
+
+We pass the name of our file into the function, and save it as a variable called `conn`.  This variable name is a pretty standard one that you'll see across a variety of SQL packages in Python.
+
+This variable represents Python's knowledge of the database file and what can be done with it. You'll use this variable as an object to interact with the database's content.  
+
+But we aren't ready to execute commands just yet.  We need to create a cursor connection to the database so we can pass it some text to parse as SQL commands.  This cursor object will have a special `execute()` function that will let us pass it a SQL command (that is stored as text in a string).
+
+``` python
+c = conn.cursor()
+```
+
+There's nothing to pass into this function, and we're going to save the resulting object to a variable called `c`.  We need to save it as a variable so it will be persistantly available in memory to act on whenever we want.
+
+We only have one table, so we're going to do the simplest SQL command there is:  select everything from the table and show it all to us.   Let's take a look at the query and results, then we'll talk through the syntax.
+
+``` python 
+results = c.execute("SELECT * FROM letters;")
+
+print(results.fetchone())
+```
+And our output:
+
+``` text
+('1', '1', '[Provenance documents and biographical sources]', 'n.d.')
+```
+
+The `fetchone()` function will retrieve only the first line of results.
