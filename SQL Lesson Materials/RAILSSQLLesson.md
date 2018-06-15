@@ -9,13 +9,20 @@ But maybe from a different perspective.
 * You do (or will!) know some SQL, look at the data, and think "hey these questions sound like SQL questions."
 * Much of the data you want to work with are not quantitative values, and is mostly categorical, ordinal, or contains labels/descriptions.
 * You may be limited to online platforms or platforms you don't have a choice over (so you either need to bypass it with a web client or you need a lesson that's platform agnostic).
+* you may not be comfortable enough with core python or pandas to do intensive 2 dimensional data transformation
 
-This lesson is for you.
+This lesson is for you. Because:
+
+* Python is free and easy to install
+* There are a variety of methods for reading in data, including excel files
+* The data can be read and transformed into other structures in a reproducible way (because of the scripts) and without altering the raw data.
+* SQL is a a much more approachable language for many complex data manipulations, and also works across many platforms (such as R or other languages).
 
 Goals:
 
 * start with a spreadsheet
 * make it into a database file that you can read into a variety of platforms (even cloud ones!)
+* learn how to read a CSV file into a database file
 * write some SQL queries to:
 	* investigate your data
 	* perform some calculations
@@ -275,6 +282,56 @@ And the output:
 
 Now that we have our column names in a nice flat list, we can turn our attention to the list of data.
 
-What you want to do with this is up to you, but we can play around with how me might transform this into a dictionary.  This will give un a nice structure for looking at all the data.
+What you want to do with this is up to you, but we can play around with how we might access some of these things.
 
-Let's remind ourselves of the 
+Remember how we saved the column names as a list?  The positions of those column names match up with the positions of the data within our rows.  We can depend on this because of the way we read in our data.
+
+This means that if we wanted just the dates out of our data, this is consistantly within that column.  Remember your list methods.  In this case, we can use a combination of a list accessor method of `.index(content_string)`.  
+
+This method will give us the index position of an item in our list.  This means that we can look up the position of a header in our headers list and use that position value to extract out the column of data that we want.
+
+There are other systems that will make this process better, such as Pandas which will be our next workshop.
+
+So let's get the dates our of our database.  This is effectively slicing our a column of data, which seems like a lot of work to do in python when you could just do it in SQL.  Yup, that's true.  But again, sometimes you don't have control over where your data is coming in from. You may choose to do this all just inside of SQL next time to avoid the fussiness of 2D data in Python, but it's really good to know these techniques in the future.
+
+We can see `index()` in action here:
+
+``` python 
+col_names.index('Date')
+```
+And the output:
+
+``` text
+3
+```
+
+This gives us an integer value of `3`, which represents the index position of `3` within our list.  Let's use this in place of hard coding `3` as our index position.
+
+We can do this all in one, like so:
+
+``` python
+for row in results.fetchmany(5):
+    print(row[col_names.index('Date')])
+```
+
+In this case we've asked for the first five rows of results (`fetchmany(5)`). Inside our `print()` function we're extracting a single value out of `col_names` via thi `[]` syntax.  Inside our square brackets I've placed a `col_names.index('Date')`.  This will return back our index position of `3`, passes it to the list extraction syntax, and so position `3` of all the rows is looked up.
+
+``` text
+1859, 1860
+n.d.
+1823-30
+1858-59
+1828 Jun
+```
+
+We could have just as easily hard coded that 3 in there, but this approach offers the following benefits:
+
+* code is more readable.  You can see which column I'm going after in the block of code itself, rather than having to infer it or go back to the data and check.  Likewise, you aren't dependent on a code comment that may be outdated if I change a few things around while I'm exploring the data.
+* This is robust to changing the data.  So long as a column called Date is there in my headers, this will work.  So if I change my SQL statement to add or remove columns, I won't have to change this one.  That said, I could remap another column to this name and the data could be different, but this may be something that I do to my own advantage if I have a calculated column.
+
+Now we know a bit more about how to use Python with the 2D data coming in.
+
+Let's go back to playing with SQL properly.
+
+# Selection queries
+
