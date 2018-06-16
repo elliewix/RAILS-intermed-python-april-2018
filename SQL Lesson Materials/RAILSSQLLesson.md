@@ -1,6 +1,6 @@
 # SQL Lesson
 
-But maybe from a different perspective.
+But maybe from a different perspective. This will focus on using SQL inside of Python. We will first talk about how to load a database in Python, and then transition into the essentials of data selection queries.
 
 ## Here's the scene:
 
@@ -47,7 +47,13 @@ We'll be focusing on data that in not numerical.  This means that the data we'll
 
 We won't be actively connecting to a remote database for this lesson.  However, the language and queries that we'll be using should be universal however you connect to the database.
 
-The tools that we'll be using will want things to appear like a database connection, so some of functions and tools will have vocabulary of an external data source.
+The tools that we'll be using will want things to appear like a database connection, so some of functions and tools will have vocabulary of an external data source.  This means that there will be the strong sense that there's a bunch of extra fuss get get what you want done, but this is why.
+
+# What is SQL, the super tl;dr version
+
+SQL wants your data to be in rectangular form, meaning that your data fits neatly into the row and column format.  You aren't limited to a single rectangle, though.  You can have many, and there are a variety of ways to split the data apart to make the rectangular representation work.
+
+SQL is a query language meant for these kinds of representations, helping you connect data back up that's been broken apart, calculating values from raw data points, or trimming/filtering down only the data of interest. This means that you'll be constructing single queries and commands to tell SQL.  You can get access to data via "select" queries, where you use the query structure to specify which columns of data that you want, and any further manipulations that you'd like to make to it.  
 
 # Which flavor?
 
@@ -442,3 +448,4 @@ What have we learned so far about our data from these queries?
 
 Can we construct queries to confirm your observations?
 
+# I think that's enough for an hour! We'll see how far I get.
