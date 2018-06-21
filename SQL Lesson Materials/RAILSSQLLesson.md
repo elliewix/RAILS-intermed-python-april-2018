@@ -87,7 +87,7 @@ We're going to load this into Python for now.  Python has a lovely sqlite3 packa
 
 ``` python
 import sqlite3
-conn = sqlite3.connect('pettigrew_test.db')
+conn = sqlite3.connect('create_pettigrew.db')
 ```
 When we import the package without an alias, this means that we need to use dot notation and have `sqlite3.` before any function from that package that we want to use.
 
