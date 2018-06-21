@@ -118,7 +118,7 @@ There are three functions that you can run on your results variable:
 For memory and space reasons, you may only want to look at the 'top' of the results to check what you were given back.  You may use this process as a check that what you got back was correct before going on to request or write out all of the data.
 
 ``` python 
-results = c.execute("SELECT * FROM letters;") # executes your query and saves you results
+results = c.execute("SELECT * FROM letters;") # executes your query and saves your results
 
 print(results.fetchone()) # shows you the contents of your results
 ```
@@ -252,7 +252,7 @@ A quick reminder about how `append()` works for lists:
 
 * tl;dr:  call `append()` on your list in memory, pass it what you want to add in the `()`, and don't use any assignment statements in this line of code.
 * this is a list method, so we call it on our list directly.  So you'll see something like `my_list.append()`.  It isn't a function that exists independently from the list object that we are working with.
-* this method takes an argument:  the item to add.  We put this item in the `()`, and after the method executes that item will now be the last item is out list.  So you'll see somethig like:  `my_list.append(thing_to_add)`.  The contents of `thing_to_add` will now be the last item in the `my_list` object.
+* this method takes an argument:  the item to add.  We put this item in the `()`, and after the method executes that item will now be the last item is our list.  So you'll see somethig like:  `my_list.append(thing_to_add)`.  The contents of `thing_to_add` will now be the last item in the `my_list` object.
 * this is a mutator method, which means that it will alter the list you call it on directly.  Which roughly matches what we want to do, but has two big implications to be reminded of. One is that the list is immediately changed in memory after this method is called, so your original object will be changed.  Two, nothing is returned from this method, so there's no need for an assignment statement here.  You'll just have `my_list.append(thing_to_add)` hanging out alone, and it is sufficient to get the job done. In fact, if you try to reassign this back to your list object, you will have erased your list.
 
 Let's see this in action.  
@@ -320,7 +320,7 @@ for row in results.fetchmany(5):
     print(row[col_names.index('Date')])
 ```
 
-In this case we've asked for the first five rows of results (`fetchmany(5)`). Inside our `print()` function we're extracting a single value out of `col_names` via thi `[]` syntax.  Inside our square brackets I've placed a `col_names.index('Date')`.  This will return back our index position of `3`, passes it to the list extraction syntax, and so position `3` of all the rows is looked up.
+In this case we've asked for the first five rows of results (`fetchmany(5)`). Inside our `print()` function we're extracting a single value out of `col_names` via the `[]` syntax.  Inside our square brackets I've placed a `col_names.index('Date')`.  This will return back our index position of `3`, passes it to the list extraction syntax, and so position `3` of all the rows is looked up.
 
 ``` text
 1859, 1860
