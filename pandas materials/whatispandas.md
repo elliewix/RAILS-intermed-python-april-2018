@@ -65,7 +65,7 @@ This package is about 10 years old at this time, and was bugun by a small group 
 
 You will find that there are leftover bits from when things seemed clever and cool, but ended up not scaling well as more people adopted it. (who hasn't been here?)
 
-
+So understand that things may feel strange, and that's because you'll be learning a language inside a language. 
 
 ### Linguistically
 
@@ -98,4 +98,6 @@ While pandas can be imported and used in any Python script so long as the librar
 
 ## Make it work time
 
-Let's go ahead and try to make some things work.  First step is to launch a Jupyter notebook window.  
+Let's go ahead and try to make some things work.  First step is to launch a Jupyter notebook window.  There are several ways to make this happen. You can do this locally, within PyCharm, or via the cloud.  I will be walking you through the cloud for this one.  The anaconda cloud has a nice interface and is also free for small things.  
+
+You'll need to make an account and log in:  https://anaconda.org/jbednar/notebooks
